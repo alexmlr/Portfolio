@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #F25252;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
+  color: #8C2A44;
   text-decoration: underline;
 }
 
@@ -2443,8 +2443,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
-  border-color: #ee3e0d;
+  background-color: #826AD9;
+  border-color: #826AD9;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
