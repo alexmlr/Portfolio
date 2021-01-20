@@ -48,9 +48,10 @@
 }
 
 .fot_perfil {
-  width: 100%;
+  width: 50%;
   height: auto;
   border-radius: 50%;
+  margin: 25px;
 }
 
 html {
