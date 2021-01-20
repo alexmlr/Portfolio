@@ -47,6 +47,12 @@
   box-sizing: border-box;
 }
 
+.fot_perfil {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
